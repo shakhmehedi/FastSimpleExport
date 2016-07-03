@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:FireGento_FastSimpleExport2:etc/export.xsd">
+    <entity name="sales_order" label="Sales Order" model="FireGento\FastSimpleExport2\Model\Export\Order" entityAttributeFilterType="sales_order"/>
+
+    <fileFormat name="array" label="Array" model="FireGento\FastSimpleExport2\Model\Export\Adapter\ArrayAdapter" />
+</config>
