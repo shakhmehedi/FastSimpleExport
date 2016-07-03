@@ -5,7 +5,7 @@
  *  * See LICENSE.md bundled with this module for license details.
  *
  */
-namespace FireGento\FastSimpleExport2\Model\Export;
+namespace FireGento\FastSimpleExport\Model\Export;
 
 /**
  * Export entity customer model

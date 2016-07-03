@@ -5,8 +5,8 @@
  * See COPYING.txt for license details.
  */
 -->
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:FireGento_FastSimpleExport2:etc/export.xsd">
-    <entity name="sales_order" label="Sales Order" model="FireGento\FastSimpleExport2\Model\Export\Order" entityAttributeFilterType="sales_order"/>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_ImportExport:etc/export.xsd">
+    <entity name="sales_order" label="Sales Order" model="FireGento\FastSimpleExport\Model\Export\Order" entityAttributeFilterType="sales_order"/>
 
-    <fileFormat name="array" label="Array" model="FireGento\FastSimpleExport2\Model\Export\Adapter\ArrayAdapter" />
+    <fileFormat name="array" label="Array" model="FireGento\FastSimpleExport\Model\Export\Adapter\ArrayAdapter" />
 </config>

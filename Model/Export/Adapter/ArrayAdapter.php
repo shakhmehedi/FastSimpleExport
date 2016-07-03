@@ -1,5 +1,5 @@
 <?php
-namespace FireGento\FastSimpleExport2\Model\Export\Adapter;
+namespace FireGento\FastSimpleExport\Model\Export\Adapter;
 use Magento\ImportExport\Model\Export\Adapter\AbstractAdapter;
 use Magento\Framework\Filesystem;
 use Magento\Framework\App\Filesystem\DirectoryList;

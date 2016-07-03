@@ -1,5 +1,5 @@
 <?php
-namespace FireGento\FastSimpleExport2\Model;
+namespace FireGento\FastSimpleExport\Model;
 class Exporter
 {
     /**

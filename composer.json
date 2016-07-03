@@ -1,7 +1,7 @@
 {
-  "name": "firegento/fastsimpleexport2",
+  "name": "firegento/fastsimpleexport",
   "description": "Wrapper for Magento2 ImportExport functionality, which exports products and customers from arrays",
-  "homepage": "https://github.com/magento-hackathon/FireGento_FastSimpleExport2",
+  "homepage": "https://github.com/magento-hackathon/FireGento_FastSimpleExport",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0"
   },
@@ -18,7 +18,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "FireGento\\FastSimpleExport2\\": ""
+      "FireGento\\FastSimpleExport\\": ""
     }
   }
 }

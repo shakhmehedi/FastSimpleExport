@@ -5,6 +5,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'FireGento_FastSimpleExport2',
+    'FireGento_FastSimpleExport',
     __DIR__
 );
